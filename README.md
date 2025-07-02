@@ -1,6 +1,6 @@
 # 💸 Full Stack AI Finance Platform
 
-Build a **Full Stack AI Finance Platform** using **React 19**, **Next.js 15**, **Tailwind CSS**, **Supabase**, **Prisma**, **Clerk**, **Inngest**, and **Arcjet**. 
+Build a **Full Stack AI Finance Platform** using **React 19**, **Next.js 15**, **Tailwind CSS**, **Supabase**, **Prisma**, **Clerk**, **Inngest**, and **Arcjet**.
 
 ---
 
