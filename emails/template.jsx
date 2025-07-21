@@ -176,7 +176,6 @@ const styles = {
   //   fontSize: "14px",
   //   textAlign: "center",
   //   marginTop: "32px",
-  //   paddingTop: "16px",
   //   borderTop: "1px solid #e5e7eb",
   // },
 };
